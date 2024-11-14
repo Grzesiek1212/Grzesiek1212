@@ -18,7 +18,7 @@ I'm primarily focused on developing new skills and expanding existing ones withi
 
 - https://github.com/Grzesiek1212/DrawingPolygon Computer Graphics - Project 1 - Polygon Editor - Prosty edytor wielokątów, umożliwiający tworzenie wielokątów i nakładanie ograniczeń na krawędzie (np. pionowość, poziomość, stała długość) oraz na wierzchołki (różne opcje ciągłości). Edytor umożliwia przesuwanie wierzchołków bez łamania tych ograniczeń.
 
-Pełna lista projektów dostępna jest pod linkiem: https://github.com/Grzesiek1212?tab=repositories GitHub Repositories.
+Pełna lista projektów dostępna jest pod linkiem: https://github.com/Grzesiek1212?tab=repositories
  
 ## Experience summary
 
