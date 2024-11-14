@@ -28,7 +28,7 @@ Pełna lista Twoich projektów dostępna jest pod linkiem: [https://github.com/G
 
 ## Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,vscode,java,cmake,py,git,github,html,css,js,nodejs,Angular,ts,flutter,dart&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,vscode,java,cmake,py,git,github,html,css,js,nodejs,angular,azure,dotnet,matlab,visualstudio,ts,flutter,dart&theme=dark&perline=10)](https://skillicons.dev)
 <!--
 **Grzesiek1212/Grzesiek1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
