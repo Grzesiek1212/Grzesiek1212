@@ -4,19 +4,19 @@
 
 ## Areas of intrest
 
-I'm mostly focused on developing new skills and expanding old ones within this areas:
-- Operating Systems
-- Algorithms 
-- Low Level Programming
-- Artificial Intelligence 
+I'm primarily focused on developing new skills and expanding existing ones within these areas:
+
+- Algorithms and Data Structures
+- Full Stack Development (both frontend and backend applications)
+- Artificial Intelligence
 
 ## Main projects
 
-- [https://github.com/Grzesiek1212/AirPlaneProject] Object Oriented Design - Prosta platforma oparta na interfejsie CLI do zarządzania danymi o lotach, demonstrująca kluczowe zasady programowania obiektowego (OOP) oraz wzorce projektowe.
+- https://github.com/Grzesiek1212/AirPlaneProject Object Oriented Design - Prosta platforma oparta na interfejsie CLI do zarządzania danymi o lotach, demonstrująca kluczowe zasady programowania obiektowego (OOP) oraz wzorce projektowe.
 
-- [https://github.com/Grzesiek1212/FillingTheSurface] Filling Surface - Projekt dotyczący algorytmów wypełniania powierzchni, skupiający się na analizie i implementacji metod służących do efektywnego wypełniania regionów w grafice komputerowej.
+- https://github.com/Grzesiek1212/FillingTheSurface Filling Surface - Projekt dotyczący algorytmów wypełniania powierzchni, skupiający się na analizie i implementacji metod służących do efektywnego wypełniania regionów w grafice komputerowej.
 
-- [https://github.com/Grzesiek1212/DrawingPolygon] Computer Graphics - Project 1 - Polygon Editor - Prosty edytor wielokątów, umożliwiający tworzenie wielokątów i nakładanie ograniczeń na krawędzie (np. pionowość, poziomość, stała długość) oraz na wierzchołki (różne opcje ciągłości). Edytor umożliwia przesuwanie wierzchołków bez łamania tych ograniczeń.
+- https://github.com/Grzesiek1212/DrawingPolygon Computer Graphics - Project 1 - Polygon Editor - Prosty edytor wielokątów, umożliwiający tworzenie wielokątów i nakładanie ograniczeń na krawędzie (np. pionowość, poziomość, stała długość) oraz na wierzchołki (różne opcje ciągłości). Edytor umożliwia przesuwanie wierzchołków bez łamania tych ograniczeń.
 
 Pełna lista Twoich projektów dostępna jest pod linkiem: [https://github.com/Grzesiek1212?tab=repositories] GitHub Repositories.
  
