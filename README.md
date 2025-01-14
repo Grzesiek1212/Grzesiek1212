@@ -21,8 +21,9 @@ I'm primarily focused on developing new skills and expanding existing ones withi
 Pełna lista projektów dostępna jest pod linkiem: https://github.com/Grzesiek1212?tab=repositories
  
 ## Experience summary
-
-
+<p align="center">
+  <img src="https://github-readme-stats-eosin-one-98.vercel.app/api/top-langs/?username=Grzesiek1212&theme=dark&layout=compact&hide_border=false&count_private=true&hide_title=true" />
+</p>
 
 ## Languages and tools
 
