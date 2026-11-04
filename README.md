@@ -6,13 +6,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/GrzegorzPrasek">Main GitHub</a> •
-  <a href="https://github.com/pietraldo/CarRace">Featured Project: CarRace</a>
+  <a href="https://github.com/pietraldo/CarRace">🏎️ Featured Project: CarRace</a> •
+  <a href="https://github.com/GrzegorzPrasek">💼 Professional GitHub</a>
 </p>
 
-> 🚀 **My primary GitHub account is now [@GrzegorzPrasek](https://github.com/GrzegorzPrasek).**
+> 💼 **Professional GitHub: [@GrzegorzPrasek](https://github.com/GrzegorzPrasek)**
 >
-> This profile contains my earlier personal and academic projects. My current development activity is focused on my main account and private commercial repositories.
+> I use this account primarily for professional software development in private commercial repositories.
+>
+> This profile (@Grzesiek1212) showcases my public personal and academic projects.
+
+---
 
 ## 👨‍💻 About Me
 
@@ -81,11 +85,11 @@ An interactive polygon editor supporting geometric constraints, edge properties,
 
 ---
 
-## 🔗 Find Me
+## 🔗 GitHub Profiles & Contact
 
-- 💻 **Primary GitHub:** [github.com/GrzegorzPrasek](https://github.com/GrzegorzPrasek)
+- 💻 **Public Project Portfolio:** [@Grzesiek1212](https://github.com/Grzesiek1212)
+- 🛠️ **Professional Development:** [@GrzegorzPrasek](https://github.com/GrzegorzPrasek)
 - 💼 **LinkedIn:** [Grzegorz Prasek](https://www.linkedin.com/in/grzegorz-prasek)
-- 📂 **Academic projects:** [github.com/Grzesiek1212](https://github.com/Grzesiek1212)
 
 ---
 
