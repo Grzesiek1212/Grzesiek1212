@@ -1,44 +1,94 @@
-<h1 align="center"> Hi, I'm Grzechu </h1>
 
-![Visitor Count](https://profile-counter.glitch.me/GPrasek/count.svg)
+<h1 align="center">Hi, I'm Grzegorz! 👋</h1>
 
-## Areas of intrest
-
-I'm primarily focused on developing new skills and expanding existing ones within these areas:
-
-- Algorithms and Data Structures
-- Full Stack Development (both frontend and backend applications)
-- Artificial Intelligence
-
-## Main projects
-
-- https://github.com/Grzesiek1212/AirPlaneProject Object Oriented Design - Prosta platforma oparta na interfejsie CLI do zarządzania danymi o lotach, demonstrująca kluczowe zasady programowania obiektowego (OOP) oraz wzorce projektowe.
-
-- https://github.com/Grzesiek1212/FillingTheSurface Filling Surface - Projekt dotyczący algorytmów wypełniania powierzchni, skupiający się na analizie i implementacji metod służących do efektywnego wypełniania regionów w grafice komputerowej.
-
-- https://github.com/Grzesiek1212/DrawingPolygon Computer Graphics - Project 1 - Polygon Editor - Prosty edytor wielokątów, umożliwiający tworzenie wielokątów i nakładanie ograniczeń na krawędzie (np. pionowość, poziomość, stała długość) oraz na wierzchołki (różne opcje ciągłości). Edytor umożliwia przesuwanie wierzchołków bez łamania tych ograniczeń.
-
-Pełna lista projektów dostępna jest pod linkiem: https://github.com/Grzesiek1212?tab=repositories
- 
-## Experience summary
 <p align="center">
-  <img src="https://github-readme-stats-eosin-one-98.vercel.app/api/top-langs/?username=Grzesiek1212&theme=dark&layout=compact&hide_border=false&count_private=true&hide_title=true" />
+  <b>Software Engineer | Backend Development | Software Architecture | AI</b>
 </p>
 
-## Languages and tools
+<p align="center">
+  <a href="https://github.com/GrzegorzPrasek">Main GitHub</a> •
+  <a href="https://github.com/pietraldo/CarRace">Featured Project: CarRace</a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,vscode,java,cmake,py,git,github,html,css,js,nodejs,angular,azure,dotnet,matlab,visualstudio,ts,flutter,dart&theme=dark&perline=10)](https://skillicons.dev)
-<!--
-**Grzesiek1212/Grzesiek1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🚀 **My primary GitHub account is now [@GrzegorzPrasek](https://github.com/GrzegorzPrasek).**
+>
+> This profile contains my earlier personal and academic projects. My current development activity is focused on my main account and private commercial repositories.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineer with **2+ years of commercial experience** developing production backend systems using **C#/.NET and TypeScript/NestJS**, including work on a platform serving **5,000+ active users**.
+
+I enjoy solving complex engineering problems, designing backend architectures, optimizing algorithms, and building reliable systems.
+
+I'm currently pursuing an **M.Sc. in Artificial Intelligence Methods** at Warsaw University of Technology (expected graduation: July 2027).
+
+### Areas of Interest
+
+- Software Architecture & Backend Engineering
+- Algorithms & Data Structures
+- Database Design & Distributed Systems
+- Cloud Infrastructure & Scalability
+- Artificial Intelligence & Machine Learning
+
+---
+
+## ⭐ Featured Project
+
+### 🏎️ [CarRace — Racing Simulator](https://github.com/pietraldo/CarRace)
+
+A racing simulator co-developed with a custom graphics engine built from scratch.
+
+**My contributions included:**
+- Implementing vehicle physics and driving dynamics
+- Integrating racing wheel controls
+- Optimizing rendering performance and simulation efficiency
+
+The project combines computer graphics, physics simulation, algorithms, and performance optimization.
+
+🔗 **[Explore CarRace on GitHub](https://github.com/pietraldo/CarRace)**
+
+---
+
+## 📂 Other Public Projects
+
+### ✈️ [AirPlaneProject — Object-Oriented Design](https://github.com/Grzesiek1212/AirPlaneProject)
+
+A C# command-line application for managing flight-related data, demonstrating object-oriented programming principles and design patterns.
+
+### 🎨 [Filling the Surface — Computer Graphics](https://github.com/Grzesiek1212/FillingTheSurface)
+
+Implementation and analysis of algorithms for filling bounded regions in computer graphics.
+
+### 📐 [DrawingPolygon — Polygon Editor](https://github.com/Grzesiek1212/DrawingPolygon)
+
+An interactive polygon editor supporting geometric constraints, edge properties, and vertex manipulation while preserving defined relationships.
+
+📁 [Explore all public repositories](https://github.com/Grzesiek1212?tab=repositories)
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages:** C#, TypeScript, Python, C++
+
+**Backend:** ASP.NET Core, .NET, NestJS, Node.js, REST APIs
+
+**Databases:** PostgreSQL, MySQL, MongoDB, Entity Framework Core, TypeORM
+
+**Cloud & DevOps:** Docker, AWS, Cloudflare, CI/CD
+
+**Engineering:** Software Architecture, Database Design, Algorithms, Performance Optimization, Unit & E2E Testing
+
+---
+
+## 🔗 Find Me
+
+- 💻 **Primary GitHub:** [github.com/GrzegorzPrasek](https://github.com/GrzegorzPrasek)
+- 💼 **LinkedIn:** [Grzegorz Prasek](https://www.linkedin.com/in/grzegorz-prasek)
+- 📂 **Academic projects:** [github.com/Grzesiek1212](https://github.com/Grzesiek1212)
+
+---
+
+<p align="center">
+  <i>Interested in challenging engineering problems, scalable systems, and learning from experienced engineers.</i>
+</p>
